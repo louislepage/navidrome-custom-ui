@@ -1,0 +1,22 @@
+{
+ "name": "beat-cartel",
+ "short_name": "beat-cartel",
+ "description": "beat-cartel, music streaming based on the open source web-based music collection server and streamer navidrome",
+ "categories": ["music", "entertainment"],
+ "display": "standalone",
+ "start_url": "./",
+ "background_color": "white",
+ "theme_color": "blue",
+ "icons": [
+  {
+   "src": "./android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "./android-chrome-512x512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
